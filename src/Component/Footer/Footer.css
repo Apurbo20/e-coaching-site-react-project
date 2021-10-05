@@ -1,0 +1,28 @@
+.footer {
+    height:200px;
+    background-color: rgb(16, 16, 17);
+    margin-top: 50px;
+}
+
+.social-icon {
+    width:200px;
+    margin:auto;
+    
+}
+
+.social-icon i {
+    font-size: 30px;
+    padding:5px;
+    /* background-color: rgb(26, 26, 44); */
+    margin:10px;
+    color:sandybrown;
+    transition: 0.5s;
+}
+
+.social-icon i:hover{
+    color:white;
+}
+
+h5{
+    color:white;
+}
